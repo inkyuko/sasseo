@@ -1,0 +1,26 @@
+/* reset */
+html,body{width:100%;height:100%;}
+html,body,blockquote,caption,dd,div,dl,dt,fieldset,form,frame,h1,h2,h3,h4,h5,h6,hr,
+iframe,input,legend,li,object,ol,p,pre,q,select,table,textarea,ul,tr,td,figure,figcaption,header,article,section,aside,footer,button{margin:0;padding:0;font-weight:normal;}
+fieldset,img{border:0 }
+h1,h2,h3,h4,h5,h6{font-style:normal; font-weight:bold;}
+hr{display:none}
+li{list-style:none}
+table{width:100%;border:0;border-spacing:0;empty-cells:show;border-collapse:collapse}
+input{vertical-align:middle}
+img{vertical-align:top}
+legend,hr,figcaption{position:absolute;visibility:hidden;font-size:0;width:0;height:0;line-height:0}
+caption{visibility:hidden;font-size:0;width:0;height:0;line-height:0}
+fieldset *{vertical-align:middle}
+table *{vertical-align:middle }
+button{background-color:transparent}
+article,aside,dialog,footer,header,section,footer,nav,figure{display:block} /* for html5 */
+
+body, input, select, option, textarea { font-family:Apple SD Gothic Neo,'맑은 고딕','Malgun Gothic','나눔고딕',NanumGothic,'돋움',Dotum,'굴림',Gulim,sans-serif; font-size:14px; line-height:1.2; color:#333; -webkit-text-size-adjust:none; }
+html, body {/* overflow-x:hidden; */}
+a { color:#333; text-decoration:none;}
+
+
+.scroll { min-height:100%;}
+.visual { position:absolute; width:100%; height:100%; z-index:10;}
+.visual .itm { display:block; width:100%; height:100%; background-repeat:no-repeat; background-position:50% 50%; -webkit-background-size:cover;}

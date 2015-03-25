@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>13F94EBB-6911-4511-841C-7C3F6A6A6D24</string>
+	<key>IDESourceControlProjectName</key>
+	<string>sasseo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>07849750A0D716295D917B4F021AA03BD36736F9</key>
+		<string>https://github.com/inkyuko/sasseo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/sasseo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>07849750A0D716295D917B4F021AA03BD36736F9</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/inkyuko/sasseo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>07849750A0D716295D917B4F021AA03BD36736F9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>07849750A0D716295D917B4F021AA03BD36736F9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sasseo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
